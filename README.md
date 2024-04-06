@@ -16,14 +16,13 @@ Nosso Sistema Bancário é projetado para simular operações bancárias do dia 
 
 As seguintes tecnologias estão sendo implementadas:
 
-- [Linguagem X](#) (coloque o link para a linguagem)
-- [Framework Y](#) (coloque o link para o framework)
-- [Banco de Dados Z](#) (coloque o link para o banco de dados)
-- [Outras Ferramentas](#) (links para outras ferramentas e tecnologias relevantes)
-
+- Linguagem: Java
+- Framework:
+- Banco de Dados: Oracle
+  
 ## 📐 Arquitetura
 
-Breve descrição da arquitetura do sistema, por exemplo, MVC, microserviços, etc.
+(A Fazer) Breve descrição da arquitetura do sistema.
 
 ## ⚙️ Funcionalidades
 
@@ -33,13 +32,11 @@ Aqui estão algumas das funcionalidades planejadas:
 - Operações de depósito e saque
 - Transferências entre contas
 - Extratos de operações
-- (Outras funcionalidades)
+- (Adicionar demais funcionalidades conforme criação)
 
 ## 🖥️ Como Executar
 
 Instruções sobre como configurar o ambiente de desenvolvimento e executar o projeto localmente.
 
 ```bash
-# Comando para clonar o repositório
-# Comando para instalar dependências
-# Comando para executar o projeto
+Pendentes de inserção
