@@ -1,4 +1,4 @@
-# Sistema Bancário FIAP
+# Sistema Bancário Básico FIAP (Protótipo Base)
 
 Bem-vindo ao repositório do nosso Sistema Bancário, um projeto em desenvolvimento criado por estudantes da [FIAP](https://www.fiap.com.br/) como trabalho final para o capítulo 8. Este projeto visa implementar uma solução bancária robusta, incorporando as melhores práticas de desenvolvimento de software e as tecnologias mais atuais.
 
